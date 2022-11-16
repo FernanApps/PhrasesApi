@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "quotes": [
-    { "quote": "It\’s not a bug. It\’s an undocumented feature!", "author": "Anonymous" },
+    { "quote": "It\\’s not a bug. It\\’s an undocumented feature!", "author": "Anonymous" },
     { "quote": "Software Developer” – An organism that turns caffeine into software", "author": "Anonymous" },
     { "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in", "author": "Edsger Dijkstra" },
     { "quote": "A user interface is like a joke. If you have to explain it, it’s not that good.", "author": "Anonymous" },
