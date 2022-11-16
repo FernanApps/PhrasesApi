@@ -12,15 +12,15 @@
     "name": "typicode"
   },
   "quotes": [
-    { "id": 1, "quote": "It\’s not a bug. It\’s an undocumented feature!", "author": "Anonymous" },
-    { "id": 1, "quote": "Software Developer” – An organism that turns caffeine into software", "author": "Anonymous" },
-    { "id": 1, "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in", "author": "Edsger Dijkstra" },
-    { "id": 1, "quote": "A user interface is like a joke. If you have to explain it, it’s not that good.", "author": "Anonymous" },
-    { "id": 1, "quote": "I don’t care if it works on your machine! We are not shipping your machine!", "author": "Vidiu Platon" },
-    { "id": 1, "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.", "author": "Bill Gates" },
-    { "id": 1, "quote": "My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why.", "author": "Anonymous" },
-    { "id": 1, "quote": "Things aren’t always #000000 and #FFFFFF", "author": "Anonymous" },
-    { "id": 1, "quote": "Talk is cheap. Show me the code.", "author": "Linus Torvalds" },
-    { "id": 1, "quote": "Software and cathedrals are much the same — first we build them, then we pray.", "author": "Anonymous" }
+    { "quote": "It\’s not a bug. It\’s an undocumented feature!", "author": "Anonymous" },
+    { "quote": "Software Developer” – An organism that turns caffeine into software", "author": "Anonymous" },
+    { "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in", "author": "Edsger Dijkstra" },
+    { "quote": "A user interface is like a joke. If you have to explain it, it’s not that good.", "author": "Anonymous" },
+    { "quote": "I don’t care if it works on your machine! We are not shipping your machine!", "author": "Vidiu Platon" },
+    { "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.", "author": "Bill Gates" },
+    { "quote": "My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why.", "author": "Anonymous" },
+    { "quote": "Things aren’t always #000000 and #FFFFFF", "author": "Anonymous" },
+    { "quote": "Talk is cheap. Show me the code.", "author": "Linus Torvalds" },
+    { "quote": "Software and cathedrals are much the same — first we build them, then we pray.", "author": "Anonymous" }
   ]  
 }
